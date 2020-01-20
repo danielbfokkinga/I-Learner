@@ -1,5 +1,3 @@
-//gcc -finstrument-functions -g -c -o  program.o program.c
-//gcc program.o trace.o -o program
 #include <set>
 #include <map>
 #include <iostream>
